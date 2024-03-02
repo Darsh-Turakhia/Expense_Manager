@@ -29,6 +29,7 @@ Expense Manager simplifies the process of managing finances by providing users w
 
 Expense Manager is built using the following tools and technologies:
 
+- **Sublime:** Text editor used for the project.
 - **PHP:** Server-side scripting language used for backend development.
 - **HTML:** Markup language for structuring the content of web pages.
 - **CSS:** Styling language used for enhancing the presentation and appearance of web pages.
